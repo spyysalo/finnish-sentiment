@@ -1,0 +1,1 @@
+Miksi GIMP : n tulisi tulevaisuudessa käyttää Qt : tä ? Siksi , koska Qt on trendikkäämpi nykyään ?

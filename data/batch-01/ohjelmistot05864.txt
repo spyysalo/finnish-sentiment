@@ -1,0 +1,1 @@
+Vaikka minimi olisi IE 11 , FF 31 , Chrome 32 , niin silti selaimet rendaa eri tavalla .

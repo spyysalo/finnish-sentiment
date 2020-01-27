@@ -1,0 +1,1 @@
+Lievästi sanoen kismittää , kun kone ei tunnista USB-laitteita silloin tällöin käynnistyksessä . Joskus hiiri , joskus näppis , joskus WLAN-tikku . Emo on Asuksen Z87-A eikä todellakaan huvittaisi kontata koneen takana jonkun johdon uudelleenkytkemisen takia .

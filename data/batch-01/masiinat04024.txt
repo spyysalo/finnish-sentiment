@@ -1,0 +1,1 @@
+Miten saan duunikoneeseen asennettua ohjelmia ilman , että käyttäjälläni on admin-oikeuksia ? Kesällä niin hiljasta et pitäis saada HBO-nordic toimimaan ja tietohallinto tietysti kesälomalla . Jollain vitun ilveelä oon saanu spotifyn asennettua omalla käyttäjälläni puolivuotta sitten ilman admin-oikeuksia eli se pitäis olla kuitennkin mahollista ?

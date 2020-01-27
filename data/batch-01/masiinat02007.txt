@@ -1,0 +1,1 @@
+Vanha Nvidia on helpompi saada toimimaan Loonixilla . Linux Torverkkolds näytti niille keskaria siitä syystä , että ne eivät tulleet yhtään Nouveau-tyyppejä vastaan . Sittemmin ilmeisesti Nvidia on jonkun verran auttanut Nouveauta , ehkäpä Steamin innoittamana .

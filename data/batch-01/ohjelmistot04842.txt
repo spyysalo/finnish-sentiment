@@ -1,0 +1,1 @@
+No taitaa tuo raspberry esimerkiksi viedä vähän enemmän virtaa . Atmega pyörii idlenä 1mA:lla , Raspberry varmaan 1A:lla . AP taas jonne joka ei tiedä asioista mitään .

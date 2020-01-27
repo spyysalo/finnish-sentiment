@@ -1,0 +1,1 @@
+Kokemuksia android devaamisesta Android Studion avulla ? AP tekemässä ekaa appiaan ja kaipaa apinaohjeita kys. ympäristön käyttöön . Kokemusta on lähinnä Qt:sta ja cpp:sta , nyt käytössä siis Android Studio ja kielenä java . Ainakin ensinäkemältä tuo tyhjäprojekti sisältää vitusti kaikkea xml-yms settiä jota on vaikea hahmottaa .

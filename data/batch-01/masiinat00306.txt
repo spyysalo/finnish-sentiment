@@ -1,0 +1,1 @@
+Siihen pystyy kyllä syöttämään mutta linuxilla siinä ei näy mitään tähtiä vaan se pysyy tyhjänä kun kirjoitat salasanaasi .

@@ -1,0 +1,1 @@
+Osaisiko kukaan kertoa mikä voisi olla vikana kun windows ei tunnista näyttöä näytönohjaimen dvi portista . HDMI liitännästä tulee tv:een kuva ja emolevyn dvi portista tulee tulee näyttöön .

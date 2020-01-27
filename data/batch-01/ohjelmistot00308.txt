@@ -1,0 +1,1 @@
+Mitäs frameworkkeja tai pelimoottoreita suosittelet ? Onko esim. XNA hyvä ? Ja onko pelikehys lähes pakollinen ?

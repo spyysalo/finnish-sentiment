@@ -1,0 +1,1 @@
+Eri windows-versiot jakaa eri tavalla noita ( on eri salaus ja autentikointi jos käyttää sitä ja eri smb-versio ) . Lisäksi on eroa , käyttääkö domainia vai workgroupia . Myös Windowsin palomuurilla on vaikutusta . Tuskin se ongelma on Linu x-p äässä .

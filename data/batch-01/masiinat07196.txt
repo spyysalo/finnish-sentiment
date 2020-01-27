@@ -1,0 +1,1 @@
+voisiko olla windowsin virransäästö päällä ? jos nvidia näyttis , niin tarkasta onko pelille oletuksena integroitu näytönohjain vaiko nvidia , saa säädettyä esim nvidian system toolsseilla .

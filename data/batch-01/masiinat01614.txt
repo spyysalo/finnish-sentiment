@@ -1,0 +1,1 @@
+Lisätään vielä että liikenteen prioriteetti on varmasti suurempi soneran kuin telen liittymissä .

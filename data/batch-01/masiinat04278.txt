@@ -1,0 +1,1 @@
+kaikki pelit kyllä menee maximi grafiikoilla ( gtx 760 lievästi kellotettuna ) windows sanoo että on 32 bittinen true color mode käytössä ja tuo linkkaamasi nettisivu sanoo että käytössä on 24 bittinen true color . myöskin linkkaamassasi sivussa tuo musta-valko valko-musta väri gradient jutussa näen näitä palkkeja tai viivoja , ei kovin vahvasti mutta kuitenkin .

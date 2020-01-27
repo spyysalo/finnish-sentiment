@@ -1,0 +1,1 @@
+eli siis tuolle NAT-ongelmalle ei voi mitään ellei erikseen ota yhteyttä saunalahteen ? itsellä toimi moitteettomasti saunalahden kanssa nettipelailu ps3 : sella partyissa , mutta sitten joku alkoi kusta ja NAT-tyyppi vaihtui NAT2 : sesta NAT3 : een eikä parin kaverin kanssa pelaaminen ole onnistunut sen jälkeen vaikka satunnaisiin matseihin pääsisi .

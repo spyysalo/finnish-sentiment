@@ -1,0 +1,1 @@
+Hei ! Vaihdoin 2 näytön paikkaa kun ennen toinen näytöistä oli vasemmalla ja vaihdoin sen oikealle puolelle niin nykyään päänäytössä jossa mulla on pikakuvakkeet niin pikakuvakkeet eivät mene ihan alariville eli lähelle windowsin tehtäväpalkkia vaan siihen jää semmoinen pikakuvakkeen menevä rako . Mitähän pitäisi tehdä että sinne saisi ne pikakuvakkeet laitettua ?

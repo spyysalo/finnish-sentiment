@@ -1,0 +1,1 @@
+NVIDIA suosittelee CUDA:a , poliittisista syistä . CUDAsta tuli juuri uusi versiokin 6.5. Iso paketti se , mutta toimii ihan heittämällä . OpenCL-tuki on NVIDIAllakin jäljessä tehoiltaan ja CUDA se optimi . Muilla valmistajilla pahasti kirittävää OpenCL:ssä . GPGPU-juttuihin voi suositella lähinnä Mantlea ja CUDAa .

@@ -1,0 +1,1 @@
+Millä kielellä kannattaa ruveta vääntämään softaa jonka pitäisi toimia sekä Windowsissa että Linuxissa ? Plussaa jos toimii myös Macissä .

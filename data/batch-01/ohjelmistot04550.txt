@@ -1,0 +1,1 @@
+En siitä oppimisesta olekaan huolissani , mutta mietin vain että aloitanko ensin käyttämään javaa vai libgdx:ää

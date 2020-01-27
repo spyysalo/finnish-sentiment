@@ -1,0 +1,1 @@
+Näitä salasana repossa - mokia käy ihan kaikilla kielillä , frameworkeilla ja ohjelmistoilla . Ei ole pelkästään Sublimen ongelma . Yleensä salasanat ja muut salaiset avaimet kannattaa pitää ympäristömuuttujana . Silloin ei paska iske tuulettimeen , vaikka sattuisikin tuotantoympäristön config-tiedosto vuotamaan julkiseen GH-repoon .

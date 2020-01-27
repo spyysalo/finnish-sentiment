@@ -1,0 +1,1 @@
+Scalan ongelmana taitaa olla JVM : n jähmeys ? Onko tähän mitään ratkaisua ? Java-kehittäjälle melkein automaattinen työkaluketju on jokin IDE , Maven , hitaat käynnistysajat ja tämän päälle Scala kääntyy monen mielestä hitaasti .

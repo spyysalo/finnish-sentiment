@@ -1,0 +1,1 @@
+Tiedän että Minecraft on tehty Javalla mutta edelleenkään en haluaisi pakottaa asiakasta omistamaan JVM:ää enkä itseäni koodaamaan Javaa . C tai C++ olisi kokemuksenkin kannalta parempi .

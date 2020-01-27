@@ -1,0 +1,1 @@
+News flash ; Oulussa on osaajia noihin enemmän kuin tarvitaan , ASIC suunnittelu ei ole sitä vetävintä . Elektrobit tekee enemmän softaa kuin pelkkään rautaa , toki koodi on matalan tason mutta pelkkää ASIC suunnittelua sielläkään ei ole niin paljoa . Sinä voisit aloittaa täältä : http://en.wikipedia.org/wiki/VHDL

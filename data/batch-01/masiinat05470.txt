@@ -1,0 +1,1 @@
+Ite en pääse jostain neljästä päivästä ohi , koska RAM täyttyy jostain pimeästä . Vaikka ei mitään ohjelmia auki , muistia mennyt 6GB/8GB . En tiedä missä vika eikä googlekaan ole auttanut .

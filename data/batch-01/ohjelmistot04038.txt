@@ -1,0 +1,1 @@
+Tutustu Vimiin , opettele se . Kun olet opetellut Vimin kunnolla , niin et enää ikinä halua käyttää muita editoreita . Vim on ainoa ja oikea , paras editori yleisesti ohjelmointiin .

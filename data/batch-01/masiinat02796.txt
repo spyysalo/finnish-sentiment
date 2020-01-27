@@ -1,0 +1,1 @@
+Tuu hakemaan multa Thinkpad T60 jos asut Helsingissä tai lähellä . Löytyy coreboot tuki ja käsittääkseni myös hyvä OpenBSD - tuki . Lisäksi prossusta puuttuu vpro - vakoiluominaisuus .

@@ -1,0 +1,1 @@
+Jos perus c++ projekti , niin Qt ilman Qt : n kirjastoja ja jos jotain graafista niin Qt edelleen .

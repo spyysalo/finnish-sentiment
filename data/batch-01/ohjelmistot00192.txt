@@ -1,0 +1,1 @@
+Pelkkä editori , GCC ja makefilet on hyvä kombo pieniin projekteihin . IDEstä voi olla iloa jos on iso projekti ja kehitysympäristö tarjoaa hyviä työkaluja kompleksisuudenhallintaan mutta ei se silloinkaan välttämätön ole .

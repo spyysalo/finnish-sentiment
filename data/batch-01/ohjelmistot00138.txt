@@ -1,0 +1,1 @@
+Unohdit serverit ja supertietokoneet , mutta noin peruskäyttäjällä aika nappiin osuit . Jos sen jonkin Linuxin distroista saa vakaaksi ja kaikki ajurit toimintaan , niin kyllä se perusnettikoneena toimii oikein hyvin , kun ei ole Windowsin ongelmat häiritsemässä . Toki ne samat idiootit jotka saavat Windowsin solmuun , saavat aivan varmasti Linuxinkin .

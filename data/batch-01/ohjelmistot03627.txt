@@ -1,0 +1,1 @@
+HTML5 on niin uutuudenkarhea tekniikka että ei ole luotettavaa ja toimivaa frameworkia , tai jos on niin ei todellakaan montaa . Yksin Javascript kielenä jo sotii luotettavuutta vastaan , se on suunniteltu UI-skriptaukseen eikä sovelluskehitykseen . Helppo kirjoittaa reikäistä koodia nopeammin kuin ehtii dokumentoida , vaikea testata .

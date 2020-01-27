@@ -1,0 +1,1 @@
+Paketinhallinta väkisinkin vie paljon tilaa ja lisää bloattia . Slackware tai LFS tai Sabotage on siksi ihan kiva lähtökohta .

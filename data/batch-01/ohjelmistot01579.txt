@@ -1,0 +1,1 @@
+Aika rajoittuneet taidot kyllä on , jos vaan tekee Haskellilla . Tulee mieleen aika monta ongelmaa , mitä sillä ei voi ratkaista . Esim . kernelit ja niinkin yksinkertainen juttu kuin silmukkaiset tietorakenteet .

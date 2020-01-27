@@ -1,0 +1,1 @@
+Mitä muuten eroa oikeasti on C11 : sta ja C++11 : sta ?

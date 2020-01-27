@@ -1,0 +1,1 @@
+No ei siinä C+SDL kombossakaan mitään vikaa ole . Kyllä sillä peli syntyy . Onko sillä oikeasti aloittelijalla väliä , onko menestystä työmarkkinoilla ? Valitse se kieli , joka tuntuu mukavimmalta , ja väännä sillä peli . Itse aloitin myös pythonilla .

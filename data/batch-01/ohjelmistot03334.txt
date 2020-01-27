@@ -1,0 +1,1 @@
+Taidan kokeilla asentaa ZFS : n Linuxiin . BSD:stä ei ole oikeasti mitään kokemusta ja jouduin jo ongelmiin FreeBSD : n installaation kanssa pienen kokeilun jälkeen . Miksi niiden systeemit on rikki ihan fdiskistä lähtien ?

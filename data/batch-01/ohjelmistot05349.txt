@@ -1,0 +1,1 @@
+Audacityssä eri raitojen copypastettaminen ei toimi kunnolla , tai itse en ole löytänyt ratkaisua . Vaikka haluaa laittaa raidan tiettyyn kohtaan , niin se menee aina sinne alkuun . Tämä tekee miksaamisesta hienovaraisesti sanottuna turhauttavaa .

@@ -1,0 +1,1 @@
+Mulla toimii Mint virtualboxilla huomattavasti vikkelämmin kuin Atom . Ja prossuna i7-2600K .

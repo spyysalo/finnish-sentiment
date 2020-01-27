@@ -1,0 +1,1 @@
+Miksi python tai php eivät sitten ole oikeita ohjelmointikieliä ? Kieli riippuu siitä mitä haluat tehdä . Jos haluat tehdä ajurin linux kerneliin tai muita matalan tason juttuja niin C. Jos haluat ohjelmoida softaa androidille niin Java . Jos haluat koodata Windows ohjelmistoa niin vaikkapa C# jne. ..

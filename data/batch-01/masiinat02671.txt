@@ -1,0 +1,1 @@
+Hei , voisko joku neuvoa miten saan ARC käytössä ilmoituksen pois , se tulee näytölle 10 sekunnin välein ja ärsyttää melkosesti . Yhdistin siis kotiteatterin telkkuun hdmi : n avulla ja ARC on pakko olla päällä että ääni tulee läpi , easylinkin pois päältä ottaminen ei auta koska se myös katkaisee äänentulon vahvistimelle .

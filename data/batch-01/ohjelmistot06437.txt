@@ -1,0 +1,1 @@
+Ei ole mitään järkeä asentaa muuta kuin RPM-pohjaisia jakeluita . RPM on linux foundationin määrittelemä standardi .

@@ -1,0 +1,1 @@
+Olen miettinyt Unityn käyttöä pelinteossa . Minulla ei ole ennestään kokemusta pelien teosta eikä ohjelmoinnista ylipäätään . Miten paljon Unityn käytössä tarvitsee osata ohjelmoida ja mitä kieltä Unityn kanssa käytetään ? Onko Unityllä mahdollista tehdä pelejä ilman koodausta ?

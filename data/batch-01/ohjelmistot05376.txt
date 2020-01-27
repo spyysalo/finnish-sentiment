@@ -1,0 +1,1 @@
+Ja toisekseen , mikä on paras ilmainen tapa poistaa kaikki data tyhjästä tilasta , ilman että poistaa Windowssia ja tarpeellisia tiedostoja ?

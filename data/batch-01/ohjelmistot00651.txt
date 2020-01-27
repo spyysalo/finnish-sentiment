@@ -1,0 +1,1 @@
+Tämä . Jollain Facebookin UI-suunnittelijalla olikin hyvä pointti aiheesta : mitä vähemmän itse softa on esillä , sitä parempi . Pyritään siis minimoimaan jonkun tietyn tehtävän suorittamiseen vaadittava aika ja aivotyö .

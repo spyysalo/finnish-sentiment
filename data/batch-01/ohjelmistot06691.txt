@@ -1,0 +1,1 @@
+Windowsilla C++ kirjoittaessa MSVC lienee parhaimpia vaihtoehtoja . Linuxilla GCC tai Clang .

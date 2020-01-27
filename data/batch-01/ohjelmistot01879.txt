@@ -1,0 +1,1 @@
+Mutta onko Coffeescriptissä mitään sellaista niin järisyttävää uutta jota JS ei tarjoaisi . Kuulostaa hieman hipsteriprojektilta jonka käytännön hyödyt jäävät vähäisiksi . Matalaa tason koodia tuskin kukaan haluaa pyörittää selaimissa missään muussa muodossa kuin plugareissa . Kyllä se pitää olla virtuaalikone ja tulkki missä homma skulaa .

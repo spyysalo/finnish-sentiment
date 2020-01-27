@@ -1,0 +1,1 @@
+Mitä oikein kehität jos html + js on liian hidasta ? Miten olis Qt Mobile ?

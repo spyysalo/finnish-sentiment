@@ -1,0 +1,1 @@
+Rust on siis periaatteessa C/C++ , miinus kaksi miljoonaa tapaa ampua itseään jalkaan ?

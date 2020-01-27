@@ -1,0 +1,1 @@
+Mikä tahansa Linux melkeinpä myös sopii aloittelijalle , jos joku muu säätää sen valmiiksi ensin . Jos on huono mäihä hardiksen kanssa , edes Ubuntu ei välttis asennu .. Kokeilin juuri Ubuntua eismerkiksi HTPC:lle ja arvatkaa vaan , näkyikö installerissa mitään kun näytön DPI oli 60 ruudulla naurettavan pieni . Fontit kokoluokkaa 2-3 , kun normaali noin 12-16.

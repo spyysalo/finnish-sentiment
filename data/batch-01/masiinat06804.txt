@@ -1,0 +1,1 @@
+Jokin Intelin hallintaohjelma voisi kertoa tarkemmin mistä vikaa pitää etsiä . Toinen tapa : asenna 8.1 takaisin ja tee siitä seiskan näköinen , kone toimii eikä tunnu kamalalle .

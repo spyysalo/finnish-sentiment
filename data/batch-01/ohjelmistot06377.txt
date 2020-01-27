@@ -1,0 +1,1 @@
+Kiinnostaako nettisivut ? Jos kiinnostaa , niin Python on myös siten hyvä , että kun olet opetellut perusasiat , voit pikku hiljaa siirtyä Pythonin web-frameworkkeihin kuten Djangoon ja Flaskiin .

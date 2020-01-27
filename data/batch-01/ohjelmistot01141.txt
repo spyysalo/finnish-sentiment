@@ -1,0 +1,1 @@
+Haskellia ei kyllä tarvita käytännössä tai sen oppeja . C++ ihmisillä on pitkään ollut tunnettua että pitää välttää allokointia ja käyttää const correct-koodia . Haskell ei kumpaakaan tue . Tärkein nykyään on osata AVX2-käskykantaa , virtualisointia , OpenMP : tä ja OpenCL:ää ja ottaa tehot irti allokoimatta mielellään yhtään .

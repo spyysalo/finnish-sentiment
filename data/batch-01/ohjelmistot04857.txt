@@ -1,0 +1,1 @@
+Kerrotko jonkun ominaisuuden vim:ssä mitä ei saa esim. Sublime Textiin ? Regexit on ollu 1 versiosta saakka .

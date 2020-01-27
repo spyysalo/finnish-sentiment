@@ -1,0 +1,1 @@
+Meneekö kone valmiustilaan ? Ubuntu Server ei kyllä perusasetuksilla pitäisi mennä . Veikkaisin verkkokorttia tai sen ajureita . Jos ei muuta , niin koita asentaa vaan puhtaalta pöydältä käyttis uusiksi .

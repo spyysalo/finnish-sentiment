@@ -1,0 +1,1 @@
+Java nyt vaan on raskas virtuaalikoneessa pyörivä pökäle joka peliohjelmointialustana aiheuttaa lähinnä kulutajien karttamisen kun pitää asentaa toi vitun java Säästän sulta tässä vaiheesse helvetisti aikaa ettet vaan pääse pidemmälle ja huomata jos joskus projekti valmis että mitä helvettiä tän alle tuli valittua

@@ -1,0 +1,1 @@
+Kuinka saan asennettua windows 7 : n muistitikulta , koska koneessa ei ole levyasemaa ( kirottu lenovo ) ? Muistitikun koko on 8GB ja löytyy windows 7 .iso : na Käyttöjärjestelmä tällä hetkellä on UBUNTU 12.04 LTS

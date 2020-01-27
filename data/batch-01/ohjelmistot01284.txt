@@ -1,0 +1,1 @@
+Ei se ihan niinkään ole . Java 7 on nyt se juttu ja siinä on aika monta uutta vipua ( switch muun muassa ) . Java 5 tiedoilla ei pärjää eikä varsinkaan alle Java 5.

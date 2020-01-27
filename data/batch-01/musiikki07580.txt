@@ -1,0 +1,1 @@
+Maschine ei ole sampleri vaan midi kontrolleri , joka siis ohjaa DAWia

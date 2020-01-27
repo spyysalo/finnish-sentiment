@@ -1,0 +1,1 @@
+Oon ite käytellyt Sublime Text 2 : sta ja makefilejä MinGW : n kanssa . Käännösviestit ohjautuu näppärästi sublimen konsoliin , joten tekstieditorista ei tarvitse siirtyä missään vaiheessa muualle ( paitsi peliä käynnistäessä )

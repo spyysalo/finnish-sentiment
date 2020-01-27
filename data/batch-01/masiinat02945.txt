@@ -1,0 +1,1 @@
+about 30Gt kuulostaa aika vähältä kyllä Windowsille ... http://www.download.fi/jarjestelma/kovalevyn_osiointi/easeus_partition_manager_home.cfm Tällä ohjelmalla voi siirtää D-aseman tyhjää tilaa C:lle , voi tosin failata joten ota ehdottomasti image-backup ennenkuin teet !

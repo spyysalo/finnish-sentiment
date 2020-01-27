@@ -1,0 +1,1 @@
+Macho hinta-laatusuhteeltan paras valinta , kelle tahansa . Nuo kyllä toimii ihan 16x nopeudella jokainen slotti , jos niissä on kiinni vain yksi näytönohjain .

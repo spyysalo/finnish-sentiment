@@ -1,0 +1,1 @@
+Suuri syy Haskellin hyödyntämättä jättämiseen on se , että tyhmemmät koodarit eivät tule ikinä sisäistämään sitä . Oma osaamattomuus näyttää oikeuttavan haskellistien bashaamiseen . Taidot näillä on yleensä tyyliä joku bloattiframework ja Stack Overflowsta copypastaaminen .

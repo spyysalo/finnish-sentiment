@@ -1,0 +1,1 @@
+Aika lailla tämä , tosin suorituskyvyn hintana on sitten se , että noilla ei voi tehdä yhtään mitään muuta kuin sitä hashien laskemista . Teslalle jne sentään löytyy miljoona ja yksi muutakin käyttötarkoitusta kuin pelkkä virtuaalirahan laskeminen .

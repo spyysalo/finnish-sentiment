@@ -1,0 +1,1 @@
+Pyhonin ja Rubyn suorituskyky on ihan onnetonta . V8 lienee ainut varteenotettava JS engine ja se suoriutuu ainakin micro benchmarkeissa kaikista skriptikielistä parhaiten . Tarkemmin ajatellen JS kyllä ominaisuuksiensa puolesta saattaisi sopia esim. desktoppiympäristön appleteiksi jos tulkin muistinkäyttö on hillittyä . Kielenä JS:stä en henk. koht. pidä .

@@ -1,0 +1,1 @@
+Ilmaisista vaihtoehdoista suosin NetBeansia , suurimmalti osin sen takia koska Eclipsen Git-plugari on paska . Muuten NetBeans ja Eclipse ei lopulta hirveästi eroa toisistaan , kumpikin kelpaa hyvin koodin vääntämiseen . Itsellä PhpStorm . Parhaiten sijoitettu n. 100 EUR pitkään aikaan .

@@ -1,0 +1,1 @@
+Kato biosista löytyykö kovo ja onko se buuttaava asema . Kokeile asentaa windows uudestaan ja jos ei onnistu niin kokeile jollain linuxin live-levyllä , voiko kovoa lukea tai kirjoittaa .

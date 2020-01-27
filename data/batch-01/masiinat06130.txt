@@ -1,0 +1,1 @@
+Unohdit mainita että chromiumista puuttuu tuki kaikille ei-opensource-jutuille , kuten sellaiset pikkujutut kuin mp3 ja mp4 toisto .

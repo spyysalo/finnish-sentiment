@@ -1,0 +1,1 @@
+Kuvailit juuri yhden SteamOS : n ominaisuuksista . Toimii siis lokaalisti , internetyhteyden yli en lähtis kokeileen .
